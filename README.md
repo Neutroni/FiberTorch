@@ -3,6 +3,10 @@
 ## About ##
 Early game or decorative light source. Break grass while holding flint to obtain plant fibers and craft fiber torches like normal torches but with plant fibers instead of (char)coal.
 
+## Building ##
+
+Run data generation with `./gradlew runData`and build the jar with `./gradlew build`
+
 ## License ##
 * Fiber torch is licensed under the GNU Affero General Public License v3.0
   - (c) 2026 Positroni
