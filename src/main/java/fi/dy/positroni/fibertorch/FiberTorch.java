@@ -106,7 +106,7 @@ public class FiberTorch {
         if (event.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
             event.accept(FIBER_TORCH_ITEM);
         }
-        if (event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(PLANT_FIBER_ITEM);
         }
     }
